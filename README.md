@@ -1,1 +1,1 @@
-"# telegram_funnel_bot" 
+"# telegram_admin-bot" 
