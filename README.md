@@ -2,7 +2,7 @@
 # Telegram Admin Bot Telegram Group
 
 <p align="center">
-  <img src="images/bees_for_git.png" alt="Telegram Admin Bot Logo">
+  <img src=".images/bees_for_git.png" alt="Telegram Admin Bot Logo">
 </p>
 
 ## About
