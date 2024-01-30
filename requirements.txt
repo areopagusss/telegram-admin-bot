@@ -1,0 +1,4 @@
+aiogram
+envparse
+pyrogram
+tgcrypto
